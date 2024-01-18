@@ -41,7 +41,6 @@ export class Timer implements ITimer {
   };
 
   public toggle = (): void => {
-    // debugger;
     if (!this.isRunning) {
       this.start();
       return;
