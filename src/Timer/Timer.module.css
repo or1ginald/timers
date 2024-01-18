@@ -1,0 +1,20 @@
+.timer {
+    display: flex;
+    max-width: 33%;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border: 1px solid #000;
+}
+
+.timerContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.timerActions{
+    display: flex;
+    gap: 5px
+}

@@ -1,0 +1,6 @@
+.timerList{
+    display: flex;
+    align-items: flex-start;
+    gap: 5px;
+    flex-wrap: wrap;
+}

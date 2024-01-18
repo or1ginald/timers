@@ -1,0 +1,4 @@
+{  
+  "extends": ["eslint-config-ivan-big-d", "plugin:@typescript-eslint/recommended"],
+  "plugins": ["@typescript-eslint"]
+}
